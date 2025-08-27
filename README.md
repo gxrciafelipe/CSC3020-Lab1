@@ -2,3 +2,7 @@
 Felipe Sousa Garcia
 CSC 3020 – Modern Technologies
 AI Tools
+
+
+
+Why is version control important in modern development?
